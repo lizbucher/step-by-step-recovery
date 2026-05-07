@@ -52,8 +52,8 @@ export default function PartnerPage() {
             </h3>
             <p className="mt-6 max-w-2xl text-body-long text-section-dark-text/80">
               If you&apos;d like the deck, the financial model, and a private call with
-              Yomi, request the materials below. We will reply within one business
-              day.
+              our leadership team, request the materials below. We will reply within
+              one business day.
             </p>
             <Link href={p.cta.href} className="btn-primary mt-8 bg-clay hover:bg-clay-deep">
               {p.cta.label} <ArrowRight size={16} aria-hidden />

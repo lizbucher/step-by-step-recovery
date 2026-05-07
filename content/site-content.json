@@ -4,10 +4,10 @@
     "short": "Step by Step",
     "tagline": "Boutique sober living in St. Louis. Designed for what comes next."
   },
-  "voice_statement": "Warm but composed. Direct without being clinical. First-person singular — Yomi's voice. Plain English. Confident understatement. The reader is treated as a peer, not a patient.",
+  "voice_statement": "Warm but composed. First-person plural — 'we / us / our team.' Direct without being clinical. Plain English. Confident understatement. The reader is treated as a peer, not a patient.",
   "homepage": {
     "meta_title": "Step by Step Recovery | Boutique Sober Living in St. Louis",
-    "meta_description": "A founder-led, boutique-scale sober living residence in St. Louis. Eight residents, one modern home, real structure for the part of recovery that comes after.",
+    "meta_description": "A boutique-scale sober living residence in St. Louis. Eight residents, one real home in a real neighborhood, real structure for the part of recovery that comes after.",
     "hero": {
       "eyebrow": "Boutique sober living · St. Louis, MO",
       "h1_lines": [
@@ -21,15 +21,23 @@
       "cta_secondary": { "label": "See the residence", "href": "/the-residence" }
     },
     "trust_strip": [
-      { "stat": "8", "label": "Residents per home", "note": "Intimacy is the program" },
-      { "stat": "St. Louis", "label": "A real neighborhood", "note": "Not a campus, not a clinic" },
-      { "stat": "Founder-led", "label": "Yomi Martin", "note": "Every resident, every week" },
-      { "stat": "2026", "label": "Founded", "note": "St. Louis's design-forward residence" }
+      { "stat": "8", "label": "Residents", "note": "Per home — intimacy is the program" },
+      { "stat": "1:1", "label": "Weekly check-ins", "note": "Every resident, every week" },
+      { "stat": "24/7", "label": "Staffed support", "note": "On-site team, around the clock" },
+      { "stat": "St. Louis", "label": "A real neighborhood", "note": "Not a campus, not a clinic" }
+    ],
+    "marquee": [
+      "A real home, in a real neighborhood",
+      "Designed for life, not for liability",
+      "Eight residents, never more",
+      "Boutique scale — by design",
+      "Recovery that lasts past day 90",
+      "Built around what comes next"
     ],
     "residence": {
       "eyebrow": "The Residence",
       "headline": "A modern home, on a quiet street.",
-      "body": "Recovery doesn't happen in a facility. It happens in a kitchen, a porch, a single bedroom that feels like yours. Step by Step is a private modern residence in a residential St. Louis neighborhood — not an institution dressed up as one. Eight bedrooms, communal living, designed interiors, a kitchen that gets used.",
+      "body": "Recovery doesn't happen in a facility. It happens in a kitchen, on a porch, in a single bedroom that feels like yours. Step by Step is a private residence in a residential St. Louis neighborhood — not an institution dressed up as one. Eight bedrooms, communal living, designed interiors, a kitchen that gets used.",
       "bullets": [
         "Eight private bedrooms with hotel-quality linens",
         "Communal kitchen, dining, and living spaces designed for use, not display",
@@ -38,10 +46,15 @@
       ],
       "cta": { "label": "Walk through the residence", "href": "/the-residence" }
     },
+    "lifestyle": {
+      "eyebrow": "Inside the Home",
+      "headline": "A home you'd recognize as one.",
+      "body": "These rooms get used. Meals get cooked. Conversations happen on the porch. The space communicates: you are worth this."
+    },
     "method": {
-      "eyebrow": "The Method",
-      "headline": "Five things I get right.",
-      "body": "After fifteen years inside this work, I've learned that recovery housing fails for predictable reasons — too many residents, too little structure, no follow-through, no design, no story for what comes next. Step by Step is built around five non-negotiables.",
+      "eyebrow": "Our Approach",
+      "headline": "Five things we get right.",
+      "body": "Recovery housing fails for predictable reasons — too many residents, too little structure, no follow-through, no design, no story for what comes next. Step by Step is built around five non-negotiables.",
       "pillars": [
         {
           "n": "01",
@@ -60,8 +73,8 @@
         },
         {
           "n": "04",
-          "name": "Founder-present",
-          "body": "I am in the house every week. Residents know me. Families know how to reach me."
+          "name": "Present staff",
+          "body": "Our team is in the house every day. Residents are known. Families have a same-day response standard."
         },
         {
           "n": "05",
@@ -69,14 +82,7 @@
           "body": "We map the 6-month off-ramp from day one — work, education, sponsorship, housing, family. Discharge isn't a goodbye, it's a handoff."
         }
       ],
-      "cta": { "label": "Read the method in full", "href": "/the-method" }
-    },
-    "founder": {
-      "eyebrow": "Founder",
-      "headline": "Why I built Step by Step.",
-      "body": "I'm Yomi Martin. I founded Step by Step because the city I love — St. Louis — has good treatment, hard-working nonprofits, and a real gap between detox and a sustainable life. The months after treatment are the months that make or break recovery, and the housing options for that window are largely either institutional, under-resourced, or both. I wanted to build the residence I wished existed: small, structured, designed, founder-present, with a plan for what comes after.",
-      "signature_line": "— Yomi Martin, Founder",
-      "cta": { "label": "My story", "href": "/founder" }
+      "cta": { "label": "Read our approach in full", "href": "/the-method" }
     },
     "why": {
       "eyebrow": "Why Step by Step",
@@ -85,11 +91,11 @@
       "items": [
         {
           "title": "Eight residents, never more.",
-          "body": "Capacity is a design choice, not a financial accident. We won't grow this house. We will open another."
+          "body": "Capacity is a design choice, not a financial accident. We won't grow this house. We'll open another."
         },
         {
-          "title": "Founder-present, not founder-named.",
-          "body": "I am here. Weekly one-on-ones. Family calls returned the same day. The brand isn't a holding company — it is me, in the house, by name."
+          "title": "Present, not advertised.",
+          "body": "Our team is here. Weekly one-on-ones. Family calls returned the same day. The brand isn't a holding company — it's the house, by name."
         },
         {
           "title": "Designed for life, not for liability.",
@@ -113,10 +119,9 @@
     },
     "inquiry": {
       "eyebrow": "Take the next step",
-      "headline": "I read every inquiry personally.",
-      "body": "Whether you're considering Step by Step for yourself, for a family member, or as a referring professional, I'd like to hear from you. Inquiry is private. Nothing is shared until you choose.",
-      "cta": { "label": "Inquire about availability", "href": "/contact" },
-      "signature": "— Yomi"
+      "headline": "Reach out, on your terms.",
+      "body": "Whether you're considering Step by Step for yourself, for a family member, or as a referring professional, we'd like to hear from you. Inquiry is private. Nothing is shared until you choose.",
+      "cta": { "label": "Inquire about availability", "href": "/contact" }
     },
     "footer_cta": {
       "headline": "When you're ready, the door is open.",
@@ -125,13 +130,13 @@
   },
   "the_residence_page": {
     "meta_title": "The Residence | Step by Step Recovery St. Louis",
-    "meta_description": "Walk through Step by Step's modern St. Louis residence — eight bedrooms, communal living, designed interiors. The home is the program.",
+    "meta_description": "Walk through Step by Step's residence — eight bedrooms, communal living, designed interiors. The home is the program.",
     "h1": "The Residence",
     "intro": "Eight bedrooms. One kitchen that gets used. A porch. A yard. A street with neighbors and trees. Recovery housing that is, at last, just a home.",
     "sections": [
       {
         "title": "Exterior & neighborhood",
-        "body": "A modern home in a residential St. Louis neighborhood — tree-lined, walkable, on a real street. We chose the location for the same reason most families would: it feels normal, because it is."
+        "body": "A residence in a real St. Louis neighborhood — tree-lined, walkable, on a real street. We chose the location for the same reason most families would: it feels normal, because it is."
       },
       {
         "title": "Communal interiors",
@@ -149,28 +154,46 @@
   },
   "the_method_page": {
     "meta_title": "Our Approach | Step by Step Recovery",
-    "meta_description": "Step by Step's five-pillar method for sober living: small by design, real structure, dignified setting, founder-present, and a plan for after.",
+    "meta_description": "Step by Step's five-pillar method for sober living: small by design, real structure, dignified setting, present staff, and a plan for after.",
     "h1": "How recovery housing should work.",
     "intro": "Recovery housing fails for predictable reasons. Step by Step is built around five non-negotiables — none of them flashy, all of them load-bearing."
   },
-  "founder_page": {
-    "meta_title": "Yomi Martin — Founder | Step by Step Recovery",
-    "meta_description": "Yomi Martin founded Step by Step Recovery to build the boutique sober living residence St. Louis was missing. His story, his approach, his standing offer.",
-    "h1": "I'm Yomi Martin.",
-    "intro": "I founded Step by Step because the city I love — St. Louis — has good treatment, hard-working nonprofits, and a real gap between detox and a sustainable life. I wanted to build the residence I wished existed.",
-    "standing_offer": "If you'd like to talk through whether Step by Step is right for you, your family, or your client, I keep one window a week for those conversations. Reach me at hello@stepbysteprecoverystl.com."
+  "about_page": {
+    "meta_title": "About | Step by Step Recovery St. Louis",
+    "meta_description": "What Step by Step is, why we built it in St. Louis, and what the residence stands for.",
+    "h1": "About Step by Step.",
+    "intro": "We built Step by Step because the city we love — St. Louis — has good treatment, hard-working nonprofits, and a real gap between detox and a sustainable life. The months after treatment are the months that make or break recovery, and the housing options for that window are largely either institutional, under-resourced, or both. We wanted to build the residence we wished existed.",
+    "values_intro": "What we stand for, in plain language:",
+    "values": [
+      {
+        "title": "Recovery is a five-year arc, not a 90-day event.",
+        "body": "Programs that end at 30, 60, or 90 days are missing the part that actually makes recovery stick. The residence is built around the months that come after primary treatment — when most relapses happen, and when most lives are quietly rebuilt."
+      },
+      {
+        "title": "Dignity is a design choice.",
+        "body": "Hotel-quality linens, good chairs, a kitchen with real knives, a porch you'd want to sit on. The space communicates what we want every resident to hear: you are worth this."
+      },
+      {
+        "title": "Family is the second client.",
+        "body": "Default communication is weekly check-ins for the first thirty days. Crises are escalated same-day. We don't surprise you a week later with something you should have known on Tuesday."
+      },
+      {
+        "title": "Boutique is a number, not a feeling.",
+        "body": "Eight residents. Not twelve. Not twenty. The capacity is a design choice that protects outcomes — and it is not negotiable."
+      }
+    ]
   },
   "families_page": {
     "meta_title": "For Families | Step by Step Recovery St. Louis",
     "meta_description": "What families can expect from Step by Step — communication, structure, dignity, and a plan for after.",
     "h1": "For families.",
-    "intro": "If you're reading this for someone you love, I assume two things: you've worked hard to get them here, and you're tired. Step by Step treats family as the second client. Here's what that looks like in practice."
+    "intro": "If you're reading this for someone you love, we assume two things: you've worked hard to get them here, and you're tired. Step by Step treats family as the second client. Here's what that looks like in practice."
   },
   "partner_page": {
     "meta_title": "Partner With Us — Investment Opportunity | Step by Step Recovery",
     "meta_description": "A discrete page for investors, family offices, and strategic partners exploring private-pay recovery housing in the Midwest.",
     "h1": "Building the next ten residences.",
-    "intro": "Step by Step is residence one of a planned portfolio. We are speaking with a small number of investors, family offices, and strategic partners who understand private-pay recovery housing as a category and the Midwest as an underserved market. If that's you, the conversation is private and on your terms.",
+    "intro": "Step by Step is residence one of a planned portfolio. We're speaking with a small number of investors, family offices, and strategic partners who understand private-pay recovery housing as a category and the Midwest as an underserved market. If that's you, the conversation is private and on your terms.",
     "thesis_blocks": [
       {
         "title": "The market gap",
@@ -181,8 +204,8 @@
         "body": "An 8-resident residence at $7,500–$10,500/month, run with operational discipline, is a defensible single-asset business. The portfolio thesis multiplies it across St. Louis, Kansas City, Indianapolis, Louisville, and Memphis."
       },
       {
-        "title": "The founder",
-        "body": "Yomi Martin has spent fifteen years inside this work. He is the operator, the brand, and the daily presence. Step by Step is not an LP-fronted facility chain; it is a founder-led residence portfolio."
+        "title": "The team",
+        "body": "Step by Step is operated by a leadership team with fifteen+ years inside this work. Detailed bios, governance structure, and operational protocols are available under NDA."
       },
       {
         "title": "The structure",

@@ -8,7 +8,7 @@ import { buildMetadata, localBusinessSchema, breadcrumbSchema } from "@/lib/seo"
 export const metadata: Metadata = buildMetadata({
   title: "Contact & Inquiry | Step by Step Recovery",
   description:
-    "Send a private inquiry to Step by Step Treatment and Recovery Centers. Yomi Martin reads every message and responds within one business day.",
+    "Send a private inquiry to Step by Step Treatment and Recovery Centers. Our team reads every message and responds within one business day.",
   path: "/contact",
 });
 
@@ -26,8 +26,8 @@ export default function ContactPage() {
       />
       <PageHero
         eyebrow="Contact & Inquiry"
-        title="Tell me what's on your mind."
-        subtitle="Whether for yourself, a family member, a client, or a partnership conversation — every inquiry comes to me personally and is replied to within one business day."
+        title="Tell us what's on your mind."
+        subtitle="Whether for yourself, a family member, a client, or a partnership conversation — every inquiry is read by our team and replied to within one business day."
       />
 
       <section className="pb-24 lg:pb-32">
@@ -69,7 +69,7 @@ export default function ContactPage() {
                         partners@stepbysteprecoverystl.com
                       </a>
                       <p className="text-sm text-ink-subtle mt-1">
-                        Routed directly to Yomi
+                        Routed directly to leadership
                       </p>
                     </div>
                   </li>

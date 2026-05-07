@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 import Hero from "@/components/sections/Hero";
 import TrustStrip from "@/components/sections/TrustStrip";
 import Residence from "@/components/sections/Residence";
+import Lifestyle from "@/components/sections/Lifestyle";
+import Marquee from "@/components/sections/Marquee";
 import Method from "@/components/sections/Method";
-import Founder from "@/components/sections/Founder";
 import Why from "@/components/sections/Why";
 import InvestmentTeaser from "@/components/sections/InvestmentTeaser";
 import Inquiry from "@/components/sections/Inquiry";
@@ -26,7 +27,6 @@ export const metadata: Metadata = buildMetadata({
     "boutique sober living",
     "private-pay recovery housing",
     "St. Louis recovery residence",
-    "Yomi Martin",
   ],
 });
 
@@ -44,8 +44,9 @@ export default function HomePage() {
       <Hero />
       <TrustStrip />
       <Residence />
+      <Lifestyle />
+      <Marquee />
       <Method />
-      <Founder />
       <Why />
       <InvestmentTeaser />
       <Inquiry />

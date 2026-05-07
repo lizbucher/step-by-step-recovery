@@ -45,14 +45,14 @@ export default function InquiryForm() {
           <div>
             <h3 className="font-display font-bold text-2xl text-ink">Your message is on its way.</h3>
             <p className="mt-3 text-body-long text-ink-muted text-pretty">
-              I&apos;ll respond personally within one business day. If you don&apos;t hear from
-              me by then, please check your spam folder or write to{" "}
+              We&apos;ll respond within one business day. If you don&apos;t hear from us by then,
+              please check your spam folder or write to{" "}
               <a className="text-forest underline" href="mailto:hello@stepbysteprecoverystl.com">
                 hello@stepbysteprecoverystl.com
               </a>
               .
             </p>
-            <p className="mt-6 font-display font-semibold text-clay">— Yomi</p>
+            <p className="mt-6 font-display font-semibold text-clay">— The Step by Step team</p>
           </div>
         </div>
       </div>
@@ -88,8 +88,8 @@ export default function InquiryForm() {
         required
       />
       <p className="text-xs text-ink-subtle">
-        Inquiry is private. We don&apos;t share, sell, or surface your information. Yomi reads every
-        message personally and replies within one business day.
+        Inquiry is private. We don&apos;t share, sell, or surface your information. Our team reads every
+        message and replies within one business day.
       </p>
       {error && <p className="text-sm text-clay-deep">{error}</p>}
       <button

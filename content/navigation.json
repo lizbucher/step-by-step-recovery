@@ -2,7 +2,7 @@
   "header": [
     { "label": "The Residence", "href": "/the-residence" },
     { "label": "Our Approach", "href": "/the-method" },
-    { "label": "Founder", "href": "/founder" },
+    { "label": "About", "href": "/about" },
     { "label": "For Families", "href": "/families" },
     { "label": "Partner With Us", "href": "/partner" }
   ],
@@ -13,7 +13,7 @@
       "links": [
         { "label": "The Residence", "href": "/the-residence" },
         { "label": "Our Approach", "href": "/the-method" },
-        { "label": "Founder Story", "href": "/founder" }
+        { "label": "About", "href": "/about" }
       ]
     },
     {

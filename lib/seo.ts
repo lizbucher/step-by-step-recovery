@@ -76,7 +76,6 @@ export function localBusinessSchema() {
       { "@type": "City", name: "University City" },
       { "@type": "City", name: "Kirkwood" },
     ],
-    founder: { "@type": "Person", name: "Yomi Martin" },
     priceRange: "$$$",
   };
 }
@@ -88,7 +87,6 @@ export function organizationSchema() {
     name: BRAND_NAME,
     url: SITE_URL,
     logo: `${SITE_URL}/images/logo.svg`,
-    founder: { "@type": "Person", name: "Yomi Martin" },
     sameAs: [],
   };
 }

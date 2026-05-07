@@ -13,10 +13,10 @@ export default function Inquiry() {
       <div className="container-prose">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           <motion.div
-            initial={{ opacity: 0, y: 18 }}
+            initial={{ opacity: 0, y: 22 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true, amount: 0.3 }}
-            transition={{ duration: 0.7, ease: [0.22, 0.61, 0.36, 1] }}
+            transition={{ duration: 0.75, ease: [0.22, 0.61, 0.36, 1] }}
             className="lg:col-span-7"
           >
             <p className="eyebrow">{i.eyebrow}</p>
@@ -24,17 +24,16 @@ export default function Inquiry() {
               {i.headline}
             </h2>
             <p className="mt-6 max-w-xl text-body-long text-ink-muted text-pretty">{i.body}</p>
-            <p className="mt-6 font-display font-semibold text-clay text-lg">{i.signature}</p>
             <Link href={i.cta.href} className="btn-primary mt-8">
               {i.cta.label} <ArrowRight size={16} aria-hidden />
             </Link>
           </motion.div>
 
           <motion.div
-            initial={{ opacity: 0, y: 18 }}
-            whileInView={{ opacity: 1, y: 0 }}
+            initial={{ opacity: 0, y: 22, scale: 0.97 }}
+            whileInView={{ opacity: 1, y: 0, scale: 1 }}
             viewport={{ once: true, amount: 0.3 }}
-            transition={{ duration: 0.8, delay: 0.1, ease: [0.22, 0.61, 0.36, 1] }}
+            transition={{ duration: 0.95, delay: 0.1, ease: [0.22, 0.61, 0.36, 1] }}
             className="lg:col-span-5"
           >
             <Imagery

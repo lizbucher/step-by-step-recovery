@@ -1,7 +1,10 @@
 /** @type {import('next').NextConfig} */
 const config = {
   output: "export",
-  images: { unoptimized: true },
+  images: {
+    unoptimized: true,
+    remotePatterns: [{ protocol: "https", hostname: "images.unsplash.com" }],
+  },
   trailingSlash: false,
   reactStrictMode: true,
 };

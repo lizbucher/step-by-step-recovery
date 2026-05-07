@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   description:
     "A founder-led, boutique-scale sober living residence in St. Louis. Eight residents, one modern home, real structure for the part of recovery that comes after.",
   applicationName: BRAND_NAME,
-  authors: [{ name: "Yomi Martin" }],
+  authors: [{ name: BRAND_NAME }],
   creator: BRAND_NAME,
   publisher: BRAND_NAME,
   formatDetection: { telephone: true, email: true, address: true },
