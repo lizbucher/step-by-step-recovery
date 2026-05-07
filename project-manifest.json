@@ -1,0 +1,152 @@
+{
+  "slug": "step-by-step-recovery",
+  "brand_name": "Step by Step Treatment and Recovery Centers",
+  "brand_short": "Step by Step",
+  "tagline": "Boutique sober living in St. Louis. Designed for what comes next.",
+  "niche_slug": "recovery-coach",
+  "owner_model": "solo",
+  "github_org": "lizbucher",
+  "supabase_project": "step-by-step-recovery",
+  "prepared_by": "Bucher Digital",
+  "brand_video_url": null,
+  "primary_url": "https://stepbysteprecoverystl.com",
+  "client_config": {
+    "brand_name": "Step by Step Treatment and Recovery Centers",
+    "legal_entity": "TBD_CLIENT",
+    "tagline": "Boutique sober living in St. Louis. Designed for what comes next.",
+    "owner_name": "Yomi Martin",
+    "phone": "TBD_CLIENT",
+    "phone_display": "TBD_CLIENT",
+    "email": "hello@stepbysteprecoverystl.com",
+    "address": {
+      "street": "TBD_CLIENT",
+      "city": "St. Louis",
+      "state": "MO",
+      "zip": "TBD_CLIENT",
+      "country": "US"
+    },
+    "geo": { "lat": 38.6270, "lng": -90.1994 },
+    "hours": {
+      "mon": "09:00-18:00",
+      "tue": "09:00-18:00",
+      "wed": "09:00-18:00",
+      "thu": "09:00-18:00",
+      "fri": "09:00-18:00",
+      "sat": "by appointment",
+      "sun": "by appointment"
+    },
+    "service_area_cities": ["St. Louis, MO", "Clayton, MO", "Webster Groves, MO", "University City, MO", "Kirkwood, MO"],
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "google_business": ""
+    },
+    "license_numbers": [],
+    "year_founded": 2026,
+    "price_range": "$$$",
+    "languages": ["en"],
+    "logo_url": "/images/logo.svg"
+  },
+  "design_picks": {
+    "brand_register": "BOUTIQUE_PREMIUM_AFFLUENT",
+    "primary_hex_override": "#2F4A3A",
+    "accent_hex": "#B8623E",
+    "typography": {
+      "display": "Plus Jakarta Sans",
+      "display_weight": 800,
+      "body": "Inter",
+      "body_weight": 400
+    },
+    "hero_archetype": "ResidenceLed",
+    "hero_archetype_reason": "Step by Step's wedge is the modern home as visual asset. None of the 5 references lead with the actual residence; making the house the protagonist is the primary differentiator.",
+    "section_sequence": [
+      "Hero",
+      "TrustStrip",
+      "TheResidence",
+      "TheMethod",
+      "FounderStory",
+      "WhyStepByStep",
+      "InvestmentTeaser",
+      "InquiryCTA",
+      "FAQTeaser",
+      "Footer"
+    ],
+    "section_sequence_reason": "Lead with the residence (the wedge), follow with five-pillar Method (philosophy section every premium reference has), then founder (Yomi's story is the trust anchor), then differentiators with embedded testimonials, then a discrete investor teaser linking to /partner, then inquiry, then FAQ teaser, then footer.",
+    "photo_direction": "ArchitecturalResidential",
+    "photo_direction_reason": "Real photography of the modern St. Louis home — golden-hour exterior, naturally-lit interiors, single-bedroom hotel-quality bedding, communal kitchen/dining. No stock recovery imagery.",
+    "animation_plan": {
+      "heroIntro": "StaggeredColumns",
+      "scrollTransition": "ParallaxLayers",
+      "hoverMicro": "UnderlineSweep",
+      "imageReveal": "CurtainWipe",
+      "textAnimation": "LineUnfold",
+      "cursor": "DefaultCursor",
+      "pageTransition": "FadeTransition",
+      "lottieSet": ["sunrise"]
+    },
+    "animation_reason": "Recovery niche allowlist + minimum-viable motion. Nothing dramatic. Vestibular-sensitive audience may include trauma history. Honors prefers-reduced-motion."
+  },
+  "brand_assets": {
+    "logo_status": "wordmark only — Plus Jakarta Sans 800 'Step by Step' set in primary forest green; mark to be designed post-launch",
+    "portraits": [],
+    "office_photos": [],
+    "stats_real": [],
+    "stats_aspirational": [
+      { "label": "Residents per home", "value": "8", "note": "intimacy-as-virtue, single-house design intent" },
+      { "label": "St. Louis", "value": "Founded 2026", "note": "founding year — establishes new brand" },
+      { "label": "Founder-led", "value": "Yomi Martin", "note": "founder credibility anchor" }
+    ],
+    "testimonials": [],
+    "needs_real_photography": true
+  },
+  "sitemap": [
+    { "path": "/", "title": "Step by Step Recovery | Boutique Sober Living in St. Louis", "priority": 1.0, "changefreq": "weekly" },
+    { "path": "/the-residence", "title": "The Residence | Step by Step Recovery", "priority": 0.9, "changefreq": "monthly" },
+    { "path": "/the-method", "title": "Our Approach | Step by Step Recovery", "priority": 0.9, "changefreq": "monthly" },
+    { "path": "/founder", "title": "Founder Story — Yomi Martin | Step by Step Recovery", "priority": 0.8, "changefreq": "monthly" },
+    { "path": "/families", "title": "For Families | Step by Step Recovery", "priority": 0.8, "changefreq": "monthly" },
+    { "path": "/partner", "title": "Partner With Us — Investment Opportunity | Step by Step Recovery", "priority": 0.7, "changefreq": "monthly" },
+    { "path": "/faq", "title": "Frequently Asked Questions | Step by Step Recovery", "priority": 0.6, "changefreq": "monthly" },
+    { "path": "/contact", "title": "Contact & Inquiry | Step by Step Recovery", "priority": 0.8, "changefreq": "monthly" }
+  ],
+  "schema_types_per_page": {
+    "/": ["LocalBusiness", "Organization", "WebSite", "BreadcrumbList"],
+    "/the-residence": ["LocalBusiness", "BreadcrumbList"],
+    "/the-method": ["LocalBusiness", "BreadcrumbList"],
+    "/founder": ["LocalBusiness", "Person", "BreadcrumbList"],
+    "/families": ["LocalBusiness", "BreadcrumbList"],
+    "/partner": ["LocalBusiness", "BreadcrumbList"],
+    "/faq": ["LocalBusiness", "FAQPage", "BreadcrumbList"],
+    "/contact": ["LocalBusiness", "BreadcrumbList"]
+  },
+  "conversion_widget": {
+    "name": "GentleInquiry",
+    "placement": "/contact + sticky 'Inquire' CTA in header",
+    "user_flow": "Single-screen, 4 fields max — Name, Email, Relationship (self / family / professional / investor), Brief note. Submit returns thank-you with 'I read every inquiry personally — Yomi' close.",
+    "supabase_table": "inquiries",
+    "success_action": "Redirect to /thank-you, fire form_submit GA4 event, send confirmation email + internal notification"
+  },
+  "forms": [
+    {
+      "name": "inquiry",
+      "supabase_table": "inquiries",
+      "fields": ["name", "email", "phone", "relationship", "message"],
+      "resend_template": "inquiry-received"
+    },
+    {
+      "name": "investor_inquiry",
+      "supabase_table": "investor_inquiries",
+      "fields": ["name", "email", "company", "round_interest", "message"],
+      "resend_template": "investor-inquiry-received"
+    }
+  ],
+  "required_secrets": [
+    "ANTHROPIC_API_KEY",
+    "RESEND_API_KEY",
+    "RESEND_FROM_EMAIL",
+    "RESEND_FROM_NAME",
+    "CRON_SECRET"
+  ],
+  "style_tokens_path": "./style-tokens.json"
+}

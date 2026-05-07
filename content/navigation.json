@@ -1,0 +1,43 @@
+{
+  "header": [
+    { "label": "The Residence", "href": "/the-residence" },
+    { "label": "Our Approach", "href": "/the-method" },
+    { "label": "Founder", "href": "/founder" },
+    { "label": "For Families", "href": "/families" },
+    { "label": "Partner With Us", "href": "/partner" }
+  ],
+  "header_cta": { "label": "Inquire", "href": "/contact" },
+  "footer_columns": [
+    {
+      "heading": "Step by Step",
+      "links": [
+        { "label": "The Residence", "href": "/the-residence" },
+        { "label": "Our Approach", "href": "/the-method" },
+        { "label": "Founder Story", "href": "/founder" }
+      ]
+    },
+    {
+      "heading": "Considering us",
+      "links": [
+        { "label": "For Families", "href": "/families" },
+        { "label": "Frequently Asked Questions", "href": "/faq" },
+        { "label": "Inquire about availability", "href": "/contact" }
+      ]
+    },
+    {
+      "heading": "For partners",
+      "links": [
+        { "label": "Partner With Us", "href": "/partner" },
+        { "label": "Investor inquiries", "href": "mailto:partners@stepbysteprecoverystl.com" }
+      ]
+    }
+  ],
+  "footer_legal": [
+    { "label": "Privacy", "href": "/privacy" },
+    { "label": "Terms", "href": "/terms" }
+  ],
+  "footer_address_block": {
+    "brand": "Step by Step Treatment and Recovery Centers",
+    "lines": ["St. Louis, Missouri", "hello@stepbysteprecoverystl.com"]
+  }
+}

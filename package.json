@@ -1,0 +1,33 @@
+{
+  "name": "step-by-step-recovery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "deploy": "next build && wrangler pages deploy out --project-name=step-by-step-recovery"
+  },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "framer-motion": "11.11.17",
+    "lucide-react": "0.460.0",
+    "next": "^16.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "tailwind-merge": "2.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "20.16.5",
+    "@types/react": "18.3.5",
+    "@types/react-dom": "18.3.0",
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.49",
+    "tailwindcss": "3.4.15",
+    "typescript": "5.6.3"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "step-by-step-recovery",
+  "brand_name": "Step by Step Treatment and Recovery Centers",
+  "founder_name": "Yomi Martin",
+  "niche_slug": "recovery-coach",
+  "niche_note": "closest match — actual category is sober living / recovery housing; recovery-coach DNA used as base + uplifted to BOUTIQUE_PREMIUM_AFFLUENT register for investor-grade aesthetic",
+  "owner_model": "solo",
+  "owner_model_reason": "Founder-led brand. Yomi Martin is the primary trust anchor. First-person singular voice throughout copy.",
+  "audience_tier": "affluent-urban",
+  "audiences_priority": [
+    {
+      "audience": "investors",
+      "priority": "primary",
+      "note": "Site doubles as Yomi's investor pitch credibility piece — must signal operational excellence + market opportunity"
+    },
+    {
+      "audience": "prospective_residents_and_families",
+      "priority": "secondary",
+      "note": "Private-pay decision-makers (residents themselves or family members covering tuition) — affluent, design-aware, values intimacy and dignity"
+    }
+  ],
+  "brand_voice": "Warm but composed. Direct without being clinical. Hopeful without saccharine wellness language. Speaks to the reader as a peer, not a patient. Plain English. Short paragraphs. Confident understatement.",
+  "positioning": "St. Louis's first design-forward, boutique-scale (8 residents) sober living residence — a modern home in a real neighborhood, founded and led by Yomi Martin.",
+  "brand_register": "BOUTIQUE_PREMIUM_AFFLUENT",
+  "brand_register_reason": "Audience tier is affluent (investors + private-pay families). Founder explicitly framed the brief as 'very high-end' with 'modern home' aesthetic. References (Rize OC, Serenity Lodge, Caron) all sit in the premium private-pay tier. Brand-name patterns don't force any other register; voice + audience tilt boutique-premium.",
+  "differentiation": [
+    "The home is the brand — modern residence in St. Louis is the visual hero, not stock recovery imagery",
+    "Boutique scale (8 residents) — intimacy and design as the premium signal, not amenity volume",
+    "St. Louis private-pay market gap — Harris House owns nonprofit/insurance; no premium private-pay sober living exists in St. Louis with this aesthetic",
+    "Founder-led trust anchor — Yomi Martin's story is the through-line, not 'our clinical staff'",
+    "Dual-audience site with a discrete Investment Opportunity page — invisible to casual visitors, prominent to investors"
+  ],
+  "has": {
+    "real_logo": false,
+    "real_photography": false,
+    "founder_portrait": false,
+    "physical_address": false,
+    "phone_number": false,
+    "domain": false,
+    "license_numbers": false,
+    "accreditations": false,
+    "year_founded_public": false,
+    "outcomes_data": false,
+    "named_testimonials": false
+  },
+  "needs_human_input": [
+    "Real architectural photography of the modern home (interior + exterior)",
+    "Founder portrait of Yomi Martin",
+    "Final business address in St. Louis",
+    "Business phone number",
+    "Domain registration",
+    "Final founding-year and entity-type (LLC / Inc / Nonprofit)",
+    "Accreditation status (CARF / NARR / state license — current and aspirational)",
+    "Investment-pitch concrete details (round size, use of funds, residence count target, financial projections) for the Partner With Us page"
+  ],
+  "tone_constraints": [
+    "No clinical / institutional language",
+    "No 'before/after transformation' framing — unethical in mental health context",
+    "No countdown timers, urgency scarcity, alarm-red CTAs",
+    "No stock people-in-distress imagery",
+    "No emojis in JSX content",
+    "No serif display fonts (banned for recovery niche per typography-2026.md)"
+  ]
+}

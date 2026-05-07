@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F4F1EB"/>
+      <stop offset="100%" stop-color="#F1E2D7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g transform="translate(0,0)">
+    <!-- abstract residence form, right -->
+    <g transform="translate(720,150)">
+      <rect width="380" height="320" fill="#1C2620"/>
+      <rect x="40" y="-80" width="300" height="100" fill="#FFFFFF"/>
+      <polygon points="0,0 40,-80 340,-80 380,0" fill="#1F3528"/>
+      <rect x="160" y="160" width="40" height="160" fill="#B8623E"/>
+      <rect x="40" y="80" width="80" height="120" fill="#F1E2D7"/>
+      <rect x="260" y="80" width="80" height="120" fill="#F1E2D7"/>
+    </g>
+  </g>
+  <g transform="translate(80,180)" font-family="-apple-system, 'Plus Jakarta Sans', sans-serif">
+    <text font-size="22" font-weight="700" letter-spacing="2" fill="#B8623E">STEP BY STEP · ST. LOUIS</text>
+    <text y="120" font-size="84" font-weight="800" fill="#1C1F1B" letter-spacing="-2">Boutique sober</text>
+    <text y="210" font-size="84" font-weight="800" fill="#1C1F1B" letter-spacing="-2">living, designed</text>
+    <text y="300" font-size="84" font-weight="800" fill="#1C1F1B" letter-spacing="-2">for what comes next.</text>
+    <text y="380" font-size="22" font-weight="500" fill="#6B6F66">Eight residents · One modern home · Founder-led</text>
+  </g>
+</svg>

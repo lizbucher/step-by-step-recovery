@@ -1,0 +1,60 @@
+{
+  "brand_register": "BOUTIQUE_PREMIUM_AFFLUENT",
+  "color": {
+    "bg": "#F4F1EB",
+    "surface": "#FFFFFF",
+    "surface_elevated": "#FBF8F3",
+    "text": "#1C1F1B",
+    "text_muted": "#6B6F66",
+    "text_subtle": "#9A968D",
+    "primary": "#2F4A3A",
+    "primary_hover": "#1F3528",
+    "primary_soft": "#E8EDE7",
+    "accent": "#B8623E",
+    "accent_hover": "#94492C",
+    "accent_soft": "#F1E2D7",
+    "border": "#E0DBD0",
+    "border_strong": "#C9C2B3",
+    "section_dark": "#1C2620",
+    "section_dark_text": "#E8EDE7",
+    "ring_focus": "#2F4A3A"
+  },
+  "font": {
+    "display": "Plus Jakarta Sans",
+    "display_weights": [600, 700, 800],
+    "body": "Inter",
+    "body_weights": [400, 500, 600, 700]
+  },
+  "type_scale": {
+    "h1": "clamp(2.75rem, 6vw, 5.5rem)",
+    "h1_tracking": "-0.025em",
+    "h1_leading": "1.05",
+    "h2": "clamp(2rem, 4vw, 3.25rem)",
+    "h2_tracking": "-0.02em",
+    "h2_leading": "1.08",
+    "h3": "1.5rem",
+    "h3_leading": "1.2",
+    "body_long": "1.125rem",
+    "body_leading": "1.7",
+    "eyebrow": "0.8125rem",
+    "eyebrow_tracking": "0.08em",
+    "stat": "clamp(3.5rem, 7.5vw, 5rem)"
+  },
+  "radius": {
+    "sm": "6px",
+    "md": "10px",
+    "lg": "14px",
+    "xl": "20px",
+    "pill": "9999px"
+  },
+  "shadow": {
+    "card": "0 2px 12px rgba(28, 31, 27, 0.06)",
+    "card_hover": "0 12px 32px rgba(28, 31, 27, 0.10)",
+    "elevated": "0 16px 48px rgba(28, 31, 27, 0.12)"
+  },
+  "spacing": {
+    "section_y_desktop": "120px",
+    "section_y_mobile": "72px",
+    "container_x": "32px"
+  }
+}
