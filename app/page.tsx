@@ -4,7 +4,7 @@ import TrustStrip from "@/components/sections/TrustStrip";
 import Residence from "@/components/sections/Residence";
 import Lifestyle from "@/components/sections/Lifestyle";
 import Marquee from "@/components/sections/Marquee";
-import Method from "@/components/sections/Method";
+import MethodPinned from "@/components/sections/MethodPinned";
 import Why from "@/components/sections/Why";
 import InvestmentTeaser from "@/components/sections/InvestmentTeaser";
 import Inquiry from "@/components/sections/Inquiry";
@@ -46,7 +46,7 @@ export default function HomePage() {
       <Residence />
       <Lifestyle />
       <Marquee />
-      <Method />
+      <MethodPinned />
       <Why />
       <InvestmentTeaser />
       <Inquiry />
