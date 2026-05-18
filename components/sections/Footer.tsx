@@ -50,7 +50,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-16 pt-8 border-t border-section-dark-text/15 flex flex-col sm:flex-row justify-between gap-4 text-xs text-section-dark-text/55">
-          <p>© {new Date().getFullYear()} {nav.footer_address_block.brand}. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} {nav.footer_address_block.legal_entity}. All rights reserved.</p>
           <div className="flex gap-6">
             {nav.footer_legal.map((link) => (
               <Link

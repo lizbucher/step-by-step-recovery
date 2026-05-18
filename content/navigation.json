@@ -38,6 +38,13 @@
   ],
   "footer_address_block": {
     "brand": "Step by Step Treatment and Recovery Centers",
-    "lines": ["St. Louis, Missouri", "hello@stepbysteprecoverystl.com"]
+    "legal_entity": "Step by Step TRC Holdings LLC",
+    "lines": [
+      "400 Chesterfield Center",
+      "Chesterfield, MO 63017",
+      "(888) 330-0312 ext. 101",
+      "(314) 828-6044 · fax (314) 828-6045",
+      "hello@stepbysteprecoverystl.com"
+    ]
   }
 }

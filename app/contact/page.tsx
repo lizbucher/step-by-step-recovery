@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Mail, Clock } from "lucide-react";
+import { Mail, Clock, Phone, Printer, MapPin } from "lucide-react";
 import PageHero from "@/components/sections/PageHero";
 import InquiryForm from "@/components/InquiryForm";
 import { JsonLd } from "@/components/JsonLd";
@@ -44,6 +44,36 @@ export default function ContactPage() {
                 <p className="eyebrow">Direct lines</p>
                 <ul className="mt-5 space-y-5">
                   <li className="flex items-start gap-4">
+                    <Phone className="mt-1 text-forest shrink-0" size={20} aria-hidden />
+                    <div>
+                      <p className="font-display font-semibold text-ink">Admissions & inquiries</p>
+                      <a
+                        href="tel:+18883300312,101"
+                        className="text-ink-muted hover:text-forest transition-colors"
+                      >
+                        (888) 330-0312 ext. 101
+                      </a>
+                      <p className="text-sm text-ink-subtle mt-1">
+                        Toll-free. Goes straight to the admissions desk.
+                      </p>
+                    </div>
+                  </li>
+                  <li className="flex items-start gap-4">
+                    <Phone className="mt-1 text-forest shrink-0" size={20} aria-hidden />
+                    <div>
+                      <p className="font-display font-semibold text-ink">Main office</p>
+                      <a
+                        href="tel:+13148286044"
+                        className="text-ink-muted hover:text-forest transition-colors"
+                      >
+                        (314) 828-6044
+                      </a>
+                      <p className="text-sm text-ink-subtle mt-1 flex items-center gap-1.5">
+                        <Printer size={14} aria-hidden /> Fax (314) 828-6045
+                      </p>
+                    </div>
+                  </li>
+                  <li className="flex items-start gap-4">
                     <Mail className="mt-1 text-forest shrink-0" size={20} aria-hidden />
                     <div>
                       <p className="font-display font-semibold text-ink">Email</p>
@@ -70,6 +100,22 @@ export default function ContactPage() {
                       </a>
                       <p className="text-sm text-ink-subtle mt-1">
                         Routed directly to leadership
+                      </p>
+                    </div>
+                  </li>
+                  <li className="flex items-start gap-4">
+                    <MapPin className="mt-1 text-forest shrink-0" size={20} aria-hidden />
+                    <div>
+                      <p className="font-display font-semibold text-ink">Office</p>
+                      <p className="text-ink-muted">
+                        Step by Step TRC Holdings LLC
+                        <br />
+                        400 Chesterfield Center
+                        <br />
+                        Chesterfield, MO 63017
+                      </p>
+                      <p className="text-sm text-ink-subtle mt-1">
+                        Business correspondence only. The residence address is shared privately with confirmed families.
                       </p>
                     </div>
                   </li>
